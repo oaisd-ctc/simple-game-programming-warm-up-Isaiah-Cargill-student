@@ -35,6 +35,8 @@ public class Program
 
             Console.WriteLine("press any key to roll the dice");
 
+            Console.ReadKey(true);
+
             Console.WriteLine("you rolled a " + user);
 
 
